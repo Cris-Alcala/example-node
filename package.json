@@ -1,0 +1,19 @@
+{
+  "name": "example-node",
+  "version": "1.0.0",
+  "description": "Example of node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cris-Alcala/example-node.git"
+  },
+  "author": "Alcazor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cris-Alcala/example-node/issues"
+  },
+  "homepage": "https://github.com/Cris-Alcala/example-node#readme"
+}
